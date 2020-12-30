@@ -66,12 +66,12 @@ and **delete** notes as they like.
 
 ## RESOURCES-REFERRED
 
-[FOR-NODE-EXPRESS]()
+[FOR-NODE-EXPRESS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
-[FOR-FILTER-ARRAY-FUNCTION]()
+[FOR-FILTER-ARRAY-FUNCTION](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 ## GIT-HUB-REPOSITORY
-[GITHUB-REPOSITORY]()
+[GITHUB-REPOSITORY](https://github.com/nehreetkaur/note-takerapphmk)
 
 ## HEROKU-DEPLOYED-APPLICATION
 [HEROKU-DEPLOYED-APPLICATION]()
