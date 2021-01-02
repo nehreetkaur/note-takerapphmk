@@ -36,12 +36,6 @@ app.get('/notes', function(req,res){
  })
 
 
-// api.get('/api/ notes',function(req,res){
-//fs.readFile("/db.json","utf8",function(error,data){
-//res.json(JSON.parse(data));
-
-//});
-//});
 
 app.get("/api/notes", function (req, res) {
   res.json(dbJSON);
@@ -59,16 +53,8 @@ app.post("/api/notes", function (req, res) {
   // Push note to dbJSON array - saves data in memory
   dbJSON.push(note);
 
-  //for delete
+  
 
-  // app.delete("/notes/:id",function (req,res){
-  //   fs.readFile("db.json","utf8",function(error,data){
-  //     let newId=req.params.id;
-  //     let newresponse=JSON.parse(data);
-  //     newresponse=newresponse.filter
-
-  //   }
-  // }
 
   // Saves data to file by persisting in memory variable dbJSON to db.json file.
   // This is needed because when we turn off server we loose all memory data like pbJSON variable.
@@ -81,6 +67,8 @@ app.post("/api/notes", function (req, res) {
     return res.json(note);
   });
 });
+
+// for delete
 
 app.delete("/api/notes/:id", function (req, res) {
   //fs.readFile("db.json","utf8",function(error,data){
