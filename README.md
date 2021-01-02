@@ -74,4 +74,4 @@ and **delete** notes as they like.
 [GITHUB-REPOSITORY](https://github.com/nehreetkaur/note-takerapphmk)
 
 ## HEROKU-DEPLOYED-APPLICATION
-[HEROKU-DEPLOYED-APPLICATION]()
+[HEROKU-DEPLOYED-APPLICATION](https://peaceful-mountain-90866.herokuapp.com/)
