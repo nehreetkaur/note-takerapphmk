@@ -80,4 +80,4 @@ and **delete** notes as they like.
 
 
 ## SCREEN_SHOT
-![Gif-Demo](images\1.gif)
+![Gif-Demo](images/1.gif)
