@@ -79,5 +79,5 @@ and **delete** notes as they like.
 [HEROKU-DEPLOYED-APPLICATION](https://peaceful-mountain-90866.herokuapp.com/)
 
 
-## SCREEN_SHOT
+## GIF-DEMO
 ![Gif-Demo](images/1.gif)
