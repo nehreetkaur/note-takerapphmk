@@ -24,6 +24,8 @@ it on **Heroku**.
 
 [HEROKU-DEPLOYED-APPLICATION](#HEROKU-DEPLOYED-APPLICATION)
 
+[GIF-DEMO](#SCREEN_SHOT)
+
 
 
 
@@ -75,3 +77,7 @@ and **delete** notes as they like.
 
 ## HEROKU-DEPLOYED-APPLICATION
 [HEROKU-DEPLOYED-APPLICATION](https://peaceful-mountain-90866.herokuapp.com/)
+
+
+## SCREEN_SHOT
+![Gif-Demo](images\1.gif)
